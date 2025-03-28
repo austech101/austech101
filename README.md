@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Austine Mandela</h1>
 <h3 align="left">Passionate Data analyst with expertise in Advanced Excel, SQL, R, Python, Power BI, and Tableau. Skilled in impact reporting, interactive dashboards, EDA, statistical analysis, and survey design for KYC and KPI tracking. Experienced in financial analysis, forecasting, credit analytics, and data visualization</h3>
 
-- 👯 I’m looking to collaborate on **Data related projects**
+- I’m looking to collaborate on **Data related projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/austech101](https://github.com/austech101)
+- All of my projects are available at [https://github.com/austech101](https://github.com/austech101)
 
-- 💬 Ask me about **Python, R, SQL, DBMS, Data Tracking, Dashboarding, A/B Testing**
+- Ask me about **Python, R, SQL, DBMS, Data Tracking, Dashboarding, A/B Testing**
 
-- 📫 How to reach me **www.linkedin.com/in/austinemandela**
+- How to reach me **www.linkedin.com/in/austinemandela**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
