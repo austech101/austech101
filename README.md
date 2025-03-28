@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austine Mandela</h1>
-<h3 align="center">Passionate Data analyst with expertise in Advanced Excel, SQL, R, Python, Power BI, and Tableau. Skilled in impact reporting, interactive dashboards, EDA, statistical analysis, and survey design for KYC and KPI tracking. Experienced in financial analysis, forecasting, credit analytics, and data visualization</h3>
+<h3 align="left">Passionate Data analyst with expertise in Advanced Excel, SQL, R, Python, Power BI, and Tableau. Skilled in impact reporting, interactive dashboards, EDA, statistical analysis, and survey design for KYC and KPI tracking. Experienced in financial analysis, forecasting, credit analytics, and data visualization</h3>
 
 - 👯 I’m looking to collaborate on **Data related projects**
 
