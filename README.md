@@ -7,7 +7,7 @@
 
 - Ask me about **Python, R, SQL, DBMS, Data Tracking, Dashboarding, A/B Testing**
 
-- How to reach me **www.linkedin.com/in/austinemandela**
+- How to reach me **www.linkedin.com/in/austinemandela** | **https://austinemandela.carrd.co/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
