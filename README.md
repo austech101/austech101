@@ -9,7 +9,7 @@
 
 - Ask me about **Python, R, SQL, DBMS, Data Tracking, Dashboarding, A/B Testing**
 
-- View one of my certificates https://www.testdome.com/certificates/e05199cf186146678f31ca3d6480d796
+- View some of my certificates  https://credsverse.com/credentials/9bbe3eb6-2f5c-4469-af6b-fb3b31f7fa31  |  https://www.testdome.com/certificates/e05199cf186146678f31ca3d6480d796
 
 - How to reach me **www.linkedin.com/in/austinemandela** 
 
